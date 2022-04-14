@@ -1,4 +1,4 @@
-## Oii, meu nome é João Paulo! Sou estudante de ciência da computação e pretendo crescer e expandir nessa área.
+## Oii, meu nome é João Paulo! Sou um mero estudante de ciência da computação pela Universidade Federal de Alfenas. 
 
 <div align="center">
   <a href="https://github.com/joaoragazzo">
