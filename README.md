@@ -1,4 +1,4 @@
-## Olá, meu nome é João Paulo!
+## Oii, meu nome é João Paulo! Sou estudante de ciência da computação e pretendo crescer e expandir nessa área.
 
 <div align="center">
   <a href="https://github.com/joaoragazzo">
