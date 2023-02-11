@@ -1,5 +1,3 @@
-## Oii, meu nome é João Paulo! Sou um mero estudante de ciência da computação pela Universidade Federal de Alfenas. 
-
 <div align="center">
   <a href="https://github.com/joaoragazzo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoragazzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,9 +20,3 @@
   ![Snake animation](https://github.com/joaoragazzo/joaoragazzo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-- 🔭 Sei programar um pouco em Python, C, C++!
-- 🌱 Estou aprendendo e estudando C e C++!
-- 👯 Pretendo colaborar com qualquer projeto!
-- 📫 Contato: joaoragazzo479@gmail.com
-
