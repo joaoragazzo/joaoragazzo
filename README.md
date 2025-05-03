@@ -66,6 +66,35 @@ Sou um entusiasta da tecnologia, apaixonado por programação, inovação e desa
   <img src="https://img.shields.io/badge/Apache-%23ffffff?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=white" />
 </p>
 
+## 📚 Livros
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/51E2055ZGUL._AC_UF1000,1000_QL80_.jpg" alt="Clean Code" width="200"/><br/>
+      <strong>Clean Code: A Handbook of Agile Software Craftsmanship</strong><br/>
+      <em>Robert C. Martin</em>
+    </td>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/81sTm5M7wjL.jpg" alt="Refatoração" width="200"/><br/>
+      <strong>Refatoração: Aperfeiçoando o Design de Códigos Existentes</strong><br/>
+      <em>Martin Fowler</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/71Vkg7GfPFL.jpg" alt="Entendemos Algoritmos" width="200"/><br/>
+      <strong>Entendemos Algoritmos: Um Guia Ilustrado para <br/> Programadores e Outros Curiosos</strong><br/>
+      <em>Aditya Y. Bhargava</em>
+    </td>
+    <td align="center">
+      <img src="https://m.media-amazon.com/images/I/71afmekhEBL._AC_UF1000,1000_QL80_.jpg" alt="Redes de Computadores e a Internet" width="200"/><br/>
+      <strong>Redes de Computadores e a Internet</strong><br/>
+      <em>James F. Kurose e Keith W. Ross</em>
+    </td>
+  </tr>
+</table>
+
 ## 🌐 Conecte-se comigo
 
 <a href="https://discord.com/users/963258412676825150" target="_blank">
