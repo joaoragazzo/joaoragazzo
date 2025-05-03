@@ -5,8 +5,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoragazzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoragazzo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoragazzo&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoragazzo&theme=dark&show_icons=true&hide_border=true&layout=compact&&exclude_repo=joaoragazzo.github.io"/>
 </div>
 
 ## 🧠 Sobre mim
