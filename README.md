@@ -107,12 +107,6 @@ Sou um entusiasta da tecnologia, apaixonado por programação, inovação e desa
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-## 👁‍🗨 Visitantes
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/joaoragazzo/count.svg?" />
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&descAlignY=53&textBg=false&descAlign=50&fontAlign=50&fontAlignY=40&section=footer"/>
 </p>
